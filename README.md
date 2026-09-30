@@ -1,4 +1,3 @@
-# productivity-dashboard
 # Productivity Dashboard
 
 A personal productivity dashboard built for daily use — combines task management, scheduling, goal tracking, notes, and a Pomodoro timer in one app. Supports light and dark mode.
@@ -27,11 +26,10 @@ Pomodoro-style timer with three modes: Focus (25 min), Short Break (5 min), Long
 Export/import all data as JSON. Supports selectively clearing individual categories (assignments, timetable, long-term goals, daily goals, tasks, notes) or resetting focus stats. Full data reset also available.
 
 ## Tech Stack
-[fill in — e.g. HTML/CSS/JavaScript, React, etc.]
+Web-based (HTML/CSS/JavaScript). No backend — all data is client-side, persisted via JSON export/import.
 
 ## How to Run
-[fill in based on tech stack — e.g. open index.html in a browser, or npm install && npm start]
+Open the `.html` file in a browser.
 
 ## Notes
-- Built for personal/single-user use — data is stored locally via the export/import JSON system, no backend or database.
-- [Add any known limitations, e.g. no cross-device sync, no auth.]
+Built for personal/single-user use.
